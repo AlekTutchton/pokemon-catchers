@@ -1,2 +1,2 @@
-# pokemon-catchers
-Adaption of the popular pokemon safari and multiplayer battles
+# final
+A very minimal repo used to allow scrumasters access
