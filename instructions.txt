@@ -1,0 +1,19 @@
+                  How To Play Pokemon
+-------------------------------------------------------
+Moving:
+  -Arrow keys control directions
+
+P:
+  -Open the current Pokedex
+
+I:
+  -Show current inventory
+
+S:
+  -Get current step count for player
+-------------------------------------------------------
+-Items are hidden among grass or in dark places.
+
+Good Luck!
+
+         -Young Pokemon Catchers
